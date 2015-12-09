@@ -12,7 +12,7 @@
 
 body {
       background-color: #996666;
-      font-family: Impact, sans-serif;
+      font-family: Verdana, sans-serif;
 }
 
 /* links */
@@ -36,7 +36,7 @@ h1 {
 /* paragraph */
 
 p {
-    color: maroon;
+    color: white;
     line-height: 1.5em;
     text-indent: 2em;
 }
@@ -65,7 +65,7 @@ h2 {
 
 h3 {
       background-color: #996666;
-      color: navy;
+      color: khaki;
 }
 
 #left_col {
