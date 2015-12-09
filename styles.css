@@ -67,3 +67,12 @@ h3 {
       background-color: #996666;
       color: navy;
 }
+
+#left_col {
+   float:left;
+   width:300px;
+}
+#right_col {
+   float:right;
+   width:300px;
+}
