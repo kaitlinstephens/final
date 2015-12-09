@@ -11,7 +11,7 @@
 /* body */
 
 body {
-      color: red;
+      color: black;
       background-color: white;
       font-family: Verdana, sans-serif;
 }
@@ -40,24 +40,16 @@ p {
     color: maroon;
     line-height: 1.5em;
     text-indent: 2em;
+    font-size: 1.5em;
 }
 
 span {
     background-color: white;
-    color: nacy;
+    color: navy;
     font-size:1.5em;
     float: right;
     word-spacing: .5em;
     }
-
-/* footer */
-
-footer {
-    color: black;
-    background-color: white;
-    font-size: .7em;
-    text-align: center;
-}
 
 h2 {
       background-color: white;
@@ -76,4 +68,13 @@ h3 {
 #right_col {
    float:right;
    width:300px;
+}
+
+/* footer */
+
+footer {
+    color: black;
+    background-color: white;
+    font-size: .7em;
+    text-align: center;
 }
