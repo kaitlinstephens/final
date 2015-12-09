@@ -12,7 +12,6 @@
 
 body {
       color: black;
-      background-color: white;
       font-family: Verdana, sans-serif;
 }
 
@@ -27,7 +26,6 @@ a {
 /* Heading styles */
 
 h1 {
-    background-color: white;
     color: black;
     font-size:2em;
     text-align: center;
@@ -45,14 +43,13 @@ p {
 
 
 h2 {
-      background-color: white;
       color: black;
       font-size: 1em;
 }
 
 h3 {
-      background-color: white;
       color: black;
+      font-size: 1.5em;
 }
 
 #left_col {
@@ -114,7 +111,9 @@ header {
 .table-wrap .col1 {
     float: left;
     border: 1px dotted blue;
-    max-width: 80%; /* This is critical or else Column 2 can disappear */
+    max-width: 80%; 
+    
+    /* This is critical or else Column 2 can disappear */
 }
 .table-wrap .col1 .content {
     height: inherit;
