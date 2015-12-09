@@ -12,7 +12,7 @@
 
 body {
       background-color: beige;
-      font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+      font-family: Impact, sans-serif;
 }
 
 /* links */
@@ -31,7 +31,7 @@ h1 {
     text-align: center;
     text-transform: uppercase;
     word-spacing: .5em;
-}
+    }
 
 /* paragraph */
 
