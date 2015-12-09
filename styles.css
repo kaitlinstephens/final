@@ -45,8 +45,9 @@ p {
 
 footer {
     color: maroon;
-    background-color: gray;
+    background-color: white;
     font-size: .7em;
+    text-align: center;
 }
 
 h2 {
