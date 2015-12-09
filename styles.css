@@ -38,7 +38,7 @@ h1 {
 p {
     color: maroon;
     line-height: 1.5em;
-    text-indent: 3em;
+    text-indent: 2em;
 }
 
 /* footer */
@@ -51,6 +51,6 @@ footer {
 }
 
 h2 {
-      background-color: khaki;
+      background-color: navy;
       color: white;
 }
