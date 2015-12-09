@@ -71,14 +71,14 @@ footer {
 }
 
 
-/*margins, columns/*
 
 #pageWrapper {
     margin: 0 auto;
     position: relative;
-    width: 90%; /*set to 100% or smaller or fixed width... */
+    width: 95%;
     height: 100%;
 }
+
 header {
     display:block;
     width: 100%;
@@ -114,6 +114,7 @@ header {
     max-width: 80%; 
     
     /* This is critical or else Column 2 can disappear */
+
 }
 .table-wrap .col1 .content {
     height: inherit;
