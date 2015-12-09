@@ -19,7 +19,7 @@ body {
 /* links */
 a {
     color: green;
-    font-size: 1.5em;
+    font-size: 1em;
     text-decoration: none;
     text-align: center;
 }
@@ -29,7 +29,7 @@ a {
 h1 {
     background-color: white;
     color: black;
-    font-size:2.5em;
+    font-size:2em;
     text-align: center;
     word-spacing: .5em;
     }
@@ -38,15 +38,15 @@ h1 {
 
 p {
     color: maroon;
-    line-height: 1.5em;
+    line-height: 1em;
     text-indent: 2em;
-    font-size: 1.5em;
+    font-size: 1em;
 }
 
 span {
     background-color: white;
     color: navy;
-    font-size:1.5em;
+    font-size:1em;
     float: right;
     word-spacing: .5em;
     }
@@ -54,11 +54,12 @@ span {
 h2 {
       background-color: white;
       color: black;
+      font-size: 1em;
 }
 
 h3 {
       background-color: white;
-      color: khaki;
+      color: black;
 }
 
 #left_col {
