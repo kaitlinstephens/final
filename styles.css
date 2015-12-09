@@ -17,9 +17,10 @@ body {
 
 /* links */
 a {
-    color: navy;
+    color: #CCCC99;
     font-size: 1.5em;
     text-decoration: none;
+    text-align: center;
 }
 
 /* Heading styles */
