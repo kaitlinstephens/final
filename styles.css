@@ -48,11 +48,11 @@ h1 {
 
 p {
     color: black;
-    line-height: 1em;
-    text-indent: 2em;
+    line-height: 0.5em;
+    text-indent: 1em;
     font-size: 1em;
     text-align: center;
-    padding-bottom: 15px;
+    padding-bottom: 5px;
 }
 
 
