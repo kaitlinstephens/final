@@ -16,6 +16,8 @@ body {
       font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
       background-color: lightsteelblue;
       border-style: groove #C63D0F;
+      display: table-cell;
+    vertical-align: middle;
 }
 
 /* links */
@@ -114,6 +116,16 @@ h3 {
     display: inline;
     position: relative;
 }
+
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
 
 /* footer */
 
