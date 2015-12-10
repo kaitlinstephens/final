@@ -39,7 +39,8 @@ a:hover {
 
 h1 {
     color: black;
-    font-size:2em;
+    background-color:powderblue;
+    font-size:3em;
     text-align: center;
     word-spacing: .5em;
     }
