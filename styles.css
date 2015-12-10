@@ -29,6 +29,11 @@ a {
     background-color: #3B3738;
 }
 
+a:hover {
+    color:navy;
+    background-color white;
+}
+
 /* Heading styles */
 
 h1 {
