@@ -14,14 +14,17 @@ body {
       text-align: center;
       color: black;
       font-family: Tahoma, Verdana, Segoe, sans-serif;
+      background-color: #FDF3E7;
+      border-style: groove #C63D0F;
 }
 
 /* links */
 a {
-    color: black;
+    color: #FDF3E7;
     font-size: 1em;
     text-decoration: none;
     text-align: center;
+    background-color: #3B3738;
 }
 
 /* Heading styles */
@@ -69,8 +72,8 @@ h3 {
 /* footer */
 
 footer {
-    color: black;
-    background-color: white;
+    color: #fdf3e7;
+    background-color: #7E8F7C;
     font-size: .7em;
     text-align: center;
 }
