@@ -4,7 +4,7 @@
     <!--
      Tutorial
      Kaitlin Stephens
-     012/05/2015
+     12/05/2015
    -->
 */
 
@@ -16,8 +16,7 @@ body {
       background-color white;
       font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
       border-style: groove #C63D0F;
-      display: table-cell;
-    vertical-align: middle;
+      vertical-align: middle;
     min-width: 960px;
     display: inline-block;
     margin: 0px auto;
@@ -54,6 +53,7 @@ p {
     text-indent: 2em;
     font-size: 1em;
     text-align: center;
+    padding-bottom: 20px;
 }
 
 
