@@ -18,6 +18,8 @@ body {
       display: table-cell;
     vertical-align: middle;
     min-width: 960px;
+    display: inline-block;
+    margin: 0px auto;
 }
 
 /* links */
