@@ -18,6 +18,7 @@ body {
       border-style: groove #C63D0F;
       display: table-cell;
     vertical-align: middle;
+    min-width: 960px;
 }
 
 /* links */
