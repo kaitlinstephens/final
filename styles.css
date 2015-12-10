@@ -38,6 +38,7 @@ a:hover {
 /* Heading styles */
 
 h1 {
+    font-family: Georgia, Serif;
     color: black;
     font-size:3em;
     text-align: center;
