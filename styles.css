@@ -81,6 +81,40 @@ h3 {
   width: 200px;
 }
 
+
+#header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100px;
+    text-align: center;
+}
+
+#wrapper {
+    margin: 100px;
+    width: 1280px;
+}
+
+#leftcolumn {
+    float: left;
+    margin: 10px 0px 10px 0px;
+    padding: 10px;
+    height: 682px;
+    width: 460px;
+}
+
+#rightcolumn {
+    float: left;
+    border: 1px solid # ccc;
+    margin: 10px 0px 10px 0px;
+    padding: 10px;
+    height: 500px;
+    width: 439px;
+    display: inline;
+    position: relative;
+}
+
 /* footer */
 
 footer {
