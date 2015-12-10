@@ -13,7 +13,7 @@
 body {
       text-align: center;
       color: black;
-      background-color white;
+      background-color: powderblue;
       font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
       border-style: groove #C63D0F;
       vertical-align: middle;
@@ -39,7 +39,6 @@ a:hover {
 
 h1 {
     color: black;
-    background-color:powderblue;
     font-size:3em;
     text-align: center;
     word-spacing: .5em;
