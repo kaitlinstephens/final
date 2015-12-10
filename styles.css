@@ -11,13 +11,14 @@
 /* body */
 
 body {
+      text-align: center;
       color: black;
       font-family: Tahoma, Verdana, Segoe, sans-serif;
 }
 
 /* links */
 a {
-    color: green;
+    color: black;
     font-size: 1em;
     text-decoration: none;
     text-align: center;
@@ -35,27 +36,31 @@ h1 {
 /* paragraph */
 
 p {
-    color: maroon;
+    color: black;
     line-height: 1em;
     text-indent: 2em;
     font-size: 1em;
+    text-align: center;
 }
 
 
 h2 {
       color: black;
       font-size: 1em;
+      text-align: center;
 }
 
 h3 {
       color: black;
       font-size: 1.5em;
+      text-align: center;
 }
 
 #left_col {
    float:left;
    width:300px;
-}
+  }
+
 #right_col {
    float:right;
    width:300px;
