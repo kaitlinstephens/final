@@ -145,6 +145,7 @@ footer {
     height: 358px; 
     width: 1057px; 
     bottom: 0;
+    clear: both;
     position: static;
     overflow: hidden;
 }
